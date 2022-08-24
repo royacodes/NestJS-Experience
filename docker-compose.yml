@@ -6,7 +6,7 @@ services:
       - 5434:5432
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: AminRoya6970
+      POSTGRES_PASSWORD: 123
       POSTGRES_DB: nest
     networks:
       - royacodes
